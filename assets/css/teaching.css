@@ -1,0 +1,71 @@
+.teaching-section {
+    margin: 40px 0; /* Adds spacing above and below the section */
+  }
+  
+  .teaching-entry {
+    display: flex;
+    align-items: flex-start; /* Align logo and text vertically */
+    gap: 20px; /* Space between logo and details */
+    margin-bottom: 30px; /* Space between teaching entries */
+    padding: 20px; /* Padding inside the entry */
+    border: 1px solid #ddd; /* Light border for a clean look */
+    border-radius: 10px; /* Smooth rounded corners */
+    background-color: #f9f9f9; /* Subtle background for each entry */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for a card effect */
+  }
+
+  
+  .teaching-details {
+    flex-grow: 1; /* Ensure details take up the remaining space */
+  }
+  
+  .teaching-details h3 {
+    margin: 0 0 10px 0; /* Add space below the company name */
+    font-size: 1.5em; /* Company name size */
+    color: #333; /* Dark text color */
+  }
+  
+  .teaching-details p {
+    /* text-align: justify; */
+    margin: 5px 0; /* Space between paragraphs */
+    font-size: 1em; /* Standard font size */
+    color: #555; /* Subtle gray color for text */
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between icon and text */
+  }
+  
+  .teaching-details p strong {
+    color: #000; /* Make role or key points bold */
+    /* display: block; 
+    margin-bottom: 20px; */
+
+  }
+/* 
+  .teaching-details p:nth-of-type(2) {
+    margin-bottom: 15px; 
+} */
+  
+  .teaching-details p em {
+    color: #888; /* Italicize and lighten dates */
+  }
+  
+  .teaching-details p .icon {
+    display: inline-block; /* Align icons inline with text */
+    margin-right: 8px; /* Space between icon and text */
+    vertical-align: middle; /* Align icons with text */
+  }
+
+/* Styling for bullet points in teaching section */
+.teaching-list {
+  margin: 5px 0 15px 20px; /* Adjust spacing */
+  padding-left: 20px; /* Indentation for bullets */
+  list-style-type: disc; /* Standard black dot bullets */
+}
+
+.teaching-list li {
+  margin-bottom: 8px; /* Space between bullet points */
+  font-size: 1em;
+  color: #555; /* Subtle text color */
+}
+

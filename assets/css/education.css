@@ -1,0 +1,106 @@
+.education-section {
+  margin: 40px 0;
+}
+
+  .education-entry {
+    display: flex;
+    align-items: flex-start; /* Align logo and text vertically */
+    gap: 20px; /* Space between logo and details */
+    margin-bottom: 30px; /* Space between experience entries */
+    padding: 20px; /* Padding inside the entry */
+    border: 1px solid #ddd; /* Light border for a clean look */
+    border-radius: 10px; /* Smooth rounded corners */
+    background-color: #f9f9f9; /* Subtle background for each entry */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for a card effect */
+  }
+
+  .university-logo {
+    width: 200px; /* Adjust the logo size */
+    height: auto;
+    border-radius: 0px; /* Optional: Rounded corners */
+    margin-right: 60px; /* Space between logo and details */
+    flex-shrink: 0;
+  }
+
+  .education-details {
+    flex-grow: 1; /* Ensure details take up the remaining space */
+  }
+
+  .education-details h3 {
+    margin: 0 0 10px 0; /* Add space below the heading */
+    font-size: 1.5em; /* Adjust font size for better visibility */
+    color: #333;
+  }
+
+  .education-details p {
+    text-align: justify;
+    margin: 5px 0;
+    font-size: 1em;
+    color: #555;
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between icon and text */
+  }
+
+  .education-details p strong {
+    color: #000; /* Make degree name bold and darker */
+  }
+
+  .education-details p strong a {
+    color: #000 !important; /* Force black color */
+    text-decoration: none !important; /* Remove underline */
+  }
+
+  .education-details p strong a:hover {
+    color: #444 !important; /* Slight gray on hover */
+  }
+
+  .education-details p em {
+    color: #888; /* Italicize and lighten dates */
+  }
+
+  .education-details p .icon {
+    display: inline-block;
+    margin-right: 8px; /* Space between icon and text */
+    vertical-align: middle; /* Align icons with text */
+  }
+
+
+
+  .research-areas, .thesis, .coursework {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  /* Indent research, coursework, and thesis text */
+  .research-text, .coursework-text {
+    margin-left: 28px;
+    text-align: justify;
+  }
+
+  /* Responsive design for mobile devices */
+  @media (max-width: 768px) {
+    .education-entry {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .university-logo {
+      width: 100%;
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+
+    .education-details h3 {
+      font-size: 1.2em;
+    }
+
+    .education-details p {
+      font-size: 0.9em;
+    }
+  }
+
+  

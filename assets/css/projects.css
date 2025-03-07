@@ -1,0 +1,104 @@
+.experience-section {
+  margin: 40px 0; /* Adds spacing above and below the section */
+}
+
+  .experience-entry {
+    display: flex;
+    align-items: flex-start; /* Align logo and text vertically */
+    gap: 20px; /* Space between logo and details */
+    margin-bottom: 30px; /* Space between experience entries */
+    padding: 20px; /* Padding inside the entry */
+    border: 1px solid #ddd; /* Light border for a clean look */
+    border-radius: 10px; /* Smooth rounded corners */
+    background-color: #f9f9f9; /* Subtle background for each entry */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for a card effect */
+  }
+
+  .company-logo {
+    width: 300px; /* Adjust the logo size */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 0px; /* Slightly round the corners */
+    margin-right: 40px; /* Space between logo and details */
+    flex-shrink: 0; /* Prevent logo from shrinking */
+  }
+
+  .experience-details {
+    flex-grow: 1; /* Ensure details take up the remaining space */
+  }
+
+  .experience-details h3 {
+    margin: 0 0 10px 0; /* Add space below the company name */
+    font-size: 1.5em; /* Company name size */
+    color: #333; /* Dark text color */
+  }
+
+  .experience-details p {
+    /* text-align: justify; */
+    margin: 5px 0; /* Space between paragraphs */
+    font-size: 1em; /* Standard font size */
+    color: #555; /* Subtle gray color for text */
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between icon and text */
+  }
+
+  .experience-details p strong {
+    color: #000; /* Make role or key points bold */
+  }
+
+  .experience-details p em {
+    color: #888; /* Italicize and lighten dates */
+  }
+
+  .experience-details p .icon {
+    display: inline-block; /* Align icons inline with text */
+    margin-right: 8px; /* Space between icon and text */
+    vertical-align: middle; /* Align icons with text */
+  }
+
+/* Styling for bullet points in experience section */
+.experience-list {
+margin: 5px 0 15px 20px; /* Adjust spacing */
+padding-left: 20px; /* Indentation for bullets */
+list-style-type: disc; /* Standard black dot bullets */
+}
+
+.experience-list li {
+margin-bottom: 8px; /* Space between bullet points */
+font-size: 1em;
+color: #555; /* Subtle text color */
+}
+
+/* Highlight AMReX links */
+.highlight-link {
+color: #D7263D; /* Red color for highlighting */
+font-weight: bold; /* Make it bold */
+text-decoration: none !important; /* Ensure no underline */
+transition: color 0.3s ease-in-out; /* Smooth transition */
+}
+
+.highlight-link:hover {
+color: #B71C1C; /* Darker red when hovered */
+text-decoration: none !important; /* Ensure no underline on hover */
+}
+
+@media (max-width: 768px) {
+.experience-entry {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.company-logo {
+  width: 100%;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+
+.experience-details h3 {
+  font-size: 1.2em;
+}
+
+.experience-details p {
+  font-size: 0.9em;
+}
+}

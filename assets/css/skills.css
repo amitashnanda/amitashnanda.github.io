@@ -1,0 +1,56 @@
+*/.skills-section {
+    margin: 40px 0;
+    /* padding: 20px; */
+  }
+  
+  /* Apply the same style from your .experience-entry box */
+  .skillset-box {
+    display: flex;
+    flex-direction: column; /* Stack text above icons */
+    gap: 20px; 
+    margin-bottom: 30px;
+    padding: 20px; 
+    border: 1px solid #ddd; 
+    border-radius: 10px; 
+    background-color: #f9f9f9; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .skillset-box p {
+    margin: 0; /* Remove default paragraph margin if desired */
+    font-size: 1em;
+    color: #555;
+  }
+  
+  .skill-icons {
+    display: flex;
+    flex-wrap: wrap;  /* Wrap icons if they don't fit on one line */
+    gap: 15px;        /* Space between icons */
+  }
+  
+  /* Increase icon size and ensure it's not overridden */
+  .skill-icons i {
+    font-size: 64px !important;  /* Force bigger icon size */
+    line-height: 1;
+    color: #333;                 /* Adjust color if needed */
+    transition: transform 0.2s;
+  }
+  
+  .skill-icons i:hover {
+    transform: scale(1.4);
+    transition: transform 0.05s ease-in-out;
+  }
+  
+
+  .custom-icon {
+    width: 96px; /* Ensures uniform size */
+    height: 96px;
+    object-fit: contain; /* Maintains aspect ratio */
+    /* filter: grayscale(100%); Optional: Match Devicon's monochrome theme */
+  }
+
+
+  .custom-icon:hover {
+    transform: scale(1.4);
+    transition: transform 0.05s ease-in-out;
+}

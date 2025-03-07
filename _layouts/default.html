@@ -9,6 +9,30 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {% if page.body_class == "education-page" %}
+<link rel="stylesheet" href="{{ '/assets/css/education.css' | relative_url }}">
+
+{% endif %}
+    {% if page.body_class == "experience-page" %}
+<link rel="stylesheet" href="{{ '/assets/css/experience.css' | relative_url }}">
+{% endif %}
+
+    {% if page.body_class == "teaching-page" %}
+    <link rel="stylesheet" href="{{ '/assets/css/teaching.css' | relative_url }}">
+
+{% endif %}
+
+{% if page.body_class == "skills-page" %}
+  <link rel="stylesheet" href="{{ '/assets/css/skills.css' | relative_url }}">
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+{% endif %}
+
+  {% if page.body_class == "projects-page" %}
+  <link rel="stylesheet" href="{{ '/assets/css/projects.css' | relative_url }}">
+
+{% endif %}
+  
   </head>
 
   <body>
