@@ -223,7 +223,7 @@ author_profile: true
 
       <ul class="experience-list">
 
-        <li>Worked as a Software Engineer at <strong>Accenture Technology Labs (Application Engineering R&D)</strong> and contributed to the research, design, and development of software applications and frameworks to meet business processes.</li>
+        <li>Worked as a Software Engineer at <a href="https://www.accenture.com/us-en/services/accenture-labs/application-engineering" target="_blank" style="text-decoration: none;"> <strong>Accenture Technology Labs (Application Engineering R&D)</strong></a> and contributed to the research, design, and development of software applications and frameworks to meet business processes.</li>
 
         <li>Responsible for being seen as a highly differentiated technology expert in robotics software development, application development and testing, machine learning, and automation. Accountable for leveraging these skills to deliver high-quality outcomes.</li>
 
@@ -267,7 +267,7 @@ author_profile: true
 
       <ul class="experience-list">
 
-        <li> Worked as a Software Engineer in <strong>Accenture Industry X Services</strong>, contributing to the design, development, automation, and testing of client-specific projects within the Product Lifecycle Management (PLM) team.</li>
+        <li> Worked as a Software Engineer in <a href="[https://www.accenture.com/us-en/services/accenture-labs/application-engineering](https://www.accenture.com/us-en/services/digital-engineering-manufacturing?c=acn_glb_semcapabilitiesgoogle_13631282&n=psgs_0523&&&&&gad_source=1&gclid=CjwKCAjwvr--BhB5EiwAd5YbXuxRXeV75tHYKt4SRX5iorlu5BPg7cvicLwyJhtXM1pQbrlNKTrw0hoCHr4QAvD_BwE&gclsrc=aw.ds)" target="_blank" style="text-decoration: none;"><strong>Accenture Industry X Services</strong> </a>, contributing to the design, development, automation, and testing of client-specific projects within the Product Lifecycle Management (PLM) team.</li>
 
         <li>Collaborated in a cross-functional and multifunctional team, developing an automation tool for Airbus Product Lifecycle Management functionalities using image and text-based recognition.</li>
 
