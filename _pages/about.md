@@ -56,7 +56,7 @@ I'm a member of the **Boolean Lab** and a student researcher at the **National E
 
 🏠 **Hometown:** Rourkela, Odisha, India
 
-🙋 **Activities:** San Diego Cricket Leauge Player, Acting, Gaming, Youtube/Twitch Streaming
+🙋 **Activities:** San Diego Cricket League Player, Acting, Gaming, Youtube/Twitch Streaming
 
 
 
