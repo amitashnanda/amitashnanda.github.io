@@ -92,7 +92,7 @@ author_profile: true
   <!-- Skill Set Box 2: Tools -->
    <div class="skillset-box">
     <p><strong>Tools:</strong><br>
-      Ananconda, Jupyter, LaTeX, NVIDIA cuDNN, Power BI, GitHub Git, Jenkins, GitLab, Bitbucket, Adobe Illustrator          
+      Anaconda, Jupyter, LaTeX, NVIDIA cuDNN, Power BI, GitHub, Git, Jenkins, GitLab, Bitbucket, Adobe Illustrator          
      </p>
     <div class="skill-icons">
       <i class="devicon-anaconda-original colored" title="Ananconda"></i>
