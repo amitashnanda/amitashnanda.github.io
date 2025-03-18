@@ -71,7 +71,7 @@ author_profile: true
   </div>
 
 
-  <div class="experience-entry">
+  <!-- <div class="experience-entry">
     <img src="{{ '/images/p4.gif' | relative_url }}" alt="LBNL Logo" class="company-logo">
     <div class="experience-details">
       <h3>
@@ -87,7 +87,7 @@ author_profile: true
         <li>The study examines and compares model performance, uncertainty quantification, and robustness of prediction sets under both IID (identically and independently distributed) and non-IID client data distributions.</li>
       </ul>
     </div>
-  </div>
+  </div>-->
 
 
   <div class="experience-entry">
