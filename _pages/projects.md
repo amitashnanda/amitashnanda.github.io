@@ -71,7 +71,8 @@ author_profile: true
   </div>
 
 
-  <!-- <div class="experience-entry">
+<!-- 
+  <div class="experience-entry">
     <img src="{{ '/images/p4.gif' | relative_url }}" alt="LBNL Logo" class="company-logo">
     <div class="experience-details">
       <h3>
@@ -81,13 +82,13 @@ author_profile: true
       <p><span class="icon">📍</span> Boolean Lab, UCSD </p>
       <!-- <p><span class="icon">📅</span> <em>June 2024 – Present</em></p> -->
 
-  <ul class="experience-list">
+  <!-- <ul class="experience-list">
         <li>Researching a practical approach to develop a framework for incorporating meaningful uncertainty quantification in a distributed and continual learning environment, enabling more reliable decision-making in federated settings. (both IID and Non-IID cases).</li>
         <li>Experimented Federated Learning approaches <strong>(FedAvg and FedProx)</strong> combined with Conformal Prediction methods <strong>(LAC, APS, and RAPS)</strong> on <strong>CIFAR-10/CIFAR-100</strong> datasets, using a <strong>ResNet-18</strong> model pretrained on ImageNet.</li>
         <li>The study examines and compares model performance, uncertainty quantification, and robustness of prediction sets under both IID (identically and independently distributed) and non-IID client data distributions.</li>
       </ul>
     </div>
-  </div>-->
+  </div> -->
 
 
   <div class="experience-entry">
