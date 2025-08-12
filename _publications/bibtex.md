@@ -38,6 +38,51 @@ location = {
 series = {PEARC '25}
 }
 ```
+## [nanda2025](#nanda2025)
+
+Amitash Nanda, Sree Bhargavi Balija, and Debashis Sahoo, "**FedNAMs: Performing Interpretability Analysis in Federated Learning Context**," Preprint arXiv:2506.17466, arXiv, December 2024. &nbsp;<a href='https://arxiv.org/abs/2506.17466' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#nanda2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@misc{nanda2025fednamsperforminginterpretabilityanalysis,
+      title={FedNAMs: Performing Interpretability Analysis in Federated Learning Context}, 
+      author={Amitash Nanda and Sree Bhargavi Balija and Debashis Sahoo},
+      year={2025},
+      eprint={2506.17466},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.17466}, 
+}
+```
+
+{% endraw %}
+
+## [nanda2025](#nanda2025)
+
+Sree Bhargavi Balija, Amitash Nanda, and Debashis Sahoo, "**Decoding Federated Learning: The FedNAM+ Conformal Revolution**," Preprint arXiv:2506.17872, arXiv, June 2025. &nbsp;<a href='https://arxiv.org/abs/2506.17872' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#nanda2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@misc{balija2025decodingfederatedlearningfednam,
+      title={Decoding Federated Learning: The FedNAM+ Conformal Revolution}, 
+      author={Sree Bhargavi Balija and Amitash Nanda and Debashis Sahoo},
+      year={2025},
+      eprint={2506.17872},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.17872}, 
+}
+```
+
+{% endraw %}
 
 ## [nanda2024](#nanda2024)
 
