@@ -10,6 +10,34 @@ blogger-color: '#F37100'
 
 
 
+## [nanda2025](#nanda2025)
+
+Amitash Nanda, Md Kamal Hossain Chowdhury, Hannah Ross and Kevin Gott, "**Exploring Dynamic Load Balancing Algorithms for Block-Structured Mesh-and-Particle Simulations in AMReX**," In *Practice and Experience in Advanced Research Computing 2025: The Power of Collaboration (PEARC '25)*, ACM, New York, NY, USA, Article 5, 9 pages, July 2025. <a href='https://doi.org/10.1145/3708035.3736022' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://dl.acm.org/doi/10.1145/3708035.3736022' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+
+[](#nanda2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@inproceedings{10.1145/3708035.3736022,
+author = {Nanda, Amitash and Chowdhury, Md Kamal Hossain and Ross, Hannah and Gott, Kevin},
+title = {Exploring Dynamic Load Balancing Algorithms for Block-Structured Mesh-and-Particle Simulations in AMReX},
+year = {2025},
+isbn = {9798400713989},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3708035.3736022},
+doi = {10.1145/3708035.3736022},
+booktitle = {Practice and Experience in Advanced Research Computing 2025: The Power of Collaboration},
+articleno = {5},
+numpages = {9},
+keywords = {Dynamic load balancing, High-Performance Computing, AMReX},
+location = {
+},
+series = {PEARC '25}
+}
+```
 
 ## [nanda2024](#nanda2024)
 
