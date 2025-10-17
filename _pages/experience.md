@@ -16,18 +16,18 @@ author_profile: true
         <a href="https://www.lbl.gov/" target="_blank" style="text-decoration: none;">Lawrence Berkeley National Laboratory (LBNL)</a>
       </h3>
 
-      <p><strong>Graduate Student Research Intern</strong></p>
+      <p><strong>Graduate Student Research Assistant</strong></p>
       <p><span class="icon">📍</span> Berkeley, CA, USA</p>
-      <p><span class="icon">📅</span> <em>June 2024 – Present</em></p>
+      <p><span class="icon">📅</span> <em>June 2025 – September 2025</em></p>
       <p><span class="icon">📌</span><strong>Responsibilities:</strong> </p>
 
       <ul class="experience-list">
 
-        <li>Worked as a Graduate Student Research Intern with the <strong>National Energy Research Scientific Computing Center</strong> <a href="https://www.nersc.gov/" target="_blank" style="text-decoration: none;"> (NERSC)</a>, focusing on load-balancing in high-performance computing platforms.</li>
+        <li>Worked as a Graduate Student Research Assistant at the <strong>National Energy Research Scientific Computing Center</strong> <a href="https://www.nersc.gov/" target="_blank" style="text-decoration: none;"> (NERSC)</a>, in the <strong>Data and Analytics</strong> Team.</li>
 
-        <li>Collaborated closely with the AMReX (a block-structured adaptive mesh refinement (AMR) software framework) development team to investigate the current state of load-balancing algorithms.</li>
+        <li>Collaborated with the research scientists from the <strong>Computational Biosciences</strong> Group, <strong>Scientific Data Division</strong> at NERSC.</li>
 
-        <li>Currently, working voluntarily on refinements of developed novel algorithms and generating results with real-time experimental data.</li>
+        <li>Led the development of a foundation AI model for protein understanding and design on an HPC workflow system.</li>
 
       </ul>
 
@@ -35,11 +35,100 @@ author_profile: true
 
       <ul class="experience-list">
 
-        <li>Expanded the current state of load-balancing algorithms in AMReX by investigating the parallelization of a brute force algorithm, a novel hybrid load-balancing algorithm combining SFC and Knapsack, and an improved SFC bisection strategy using the painter’s algorithm.</li>
+        <li>Engineered a novel guided-generation framework integrating <strong>ESM-3</strong> generative model with the <strong>FoldX</strong> scoring function <strong>(ddG scores)</strong>.</li>
 
-        <li>Statistically compared the efficiency and time to identify the best use cases of these algorithms.</li>
+        <li>Enhanced framework capabilities to refine sequences for thermostability and binding affinity, reducing time for each generation step by <strong>75–80%</strong> and achieving 8x faster performance leveraging <strong>HPC-AI</strong> workflow. Published a <strong>PyPI</strong> package, and collaborating with <a href="https://www.linkedin.com/in/anna-su-yale/" target="_blank" style="text-decoration: none;"> Anna Su</a> from the <strong>Yale</strong> University on the refinement of this project.</li>
 
-        <li>Submitted the work to the <a href="https://pearc.acm.org/pearc25/about-pearc/" target="_blank" style="text-decoration: none;">ACM PEARC (Practice & Experience in Advanced Research Computing)</a> conference. Additionally, creating a pull request to incorporate the developed algorithms into the <a href="https://github.com/AMReX-Codes/amrex" target="_blank" style="text-decoration: none;"> AMReX</a> GitHub repository.</li>
+      </ul>
+
+      <p><span class="icon">🧠</span><strong>Skill Sets:</strong> </p>
+      <ul class="experience-list">
+        <li>Python, Generative-AI models, ESM-3, AlphaFold, FoldX, Transformers, Protein Language Models, High-Performance Computing</li>
+      </ul>
+
+
+
+
+     
+
+    </div>
+  </div>
+
+
+  <div class="experience-section">
+
+  <!-- Current Experience -->
+  <div class="experience-entry">
+    <img src="{{ '/images/ml.png' | relative_url }}" alt="ML Logo" class="company-logo">
+    <div class="experience-details">
+      <h3>
+        <a href="https://mlcommons.org/" target="_blank" style="text-decoration: none;">MLCommons</a>
+      </h3>
+
+      <p><strong>Individual Contributor</strong></p>
+      <p><span class="icon">📍</span> Remote, USA</p>
+      <p><span class="icon">📅</span> <em>May 2025 – Present</em></p>
+
+
+      <p><span class="icon">📜</span><strong>Key Contributions:</strong> </p>
+
+      <ul class="experience-list">
+
+        <li>Working voluntarily with the MLCommons <strong>MLPerf</strong> Performance Inference working group. Contributed to the latest releases in MLPerf Inference <strong>v5.1</strong> edge benchmark suite. <a href="https://mlcommons.org/benchmarks/inference-edge/" target="_blank" style="text-decoration: none;"> MLPerf Inference Edge.</a> </li>
+
+        <li>Benchmarked <strong>ResNet-50</strong> with <strong>Apple M1 Pro</strong> (10-core CPU, 16-core GPU) using <strong>ONNX</strong> runtime v1.19.2 with Apple’s <strong>CoreML/ANE</strong> across Offline, SingleStream, and MultiStream.</li>
+
+
+
+      </ul>
+
+      <p><span class="icon">🧠</span><strong>Skill Sets:</strong> </p>
+      <ul class="experience-list">
+        <li>Python, PyTorch, DNN, ONNX, Inference, Performance Optimization</li>
+      </ul>
+
+
+
+
+     
+
+    </div>
+  </div>
+
+<div class="experience-section">
+
+  <!-- Current Experience -->
+  <div class="experience-entry">
+    <img src="{{ '/images/logo_lbnl.png' | relative_url }}" alt="LBNL Logo" class="company-logo">
+    <div class="experience-details">
+      <h3>
+        <a href="https://www.lbl.gov/" target="_blank" style="text-decoration: none;">Lawrence Berkeley National Laboratory (LBNL)</a>
+      </h3>
+
+      <p><strong>Graduate Student Research Assistant</strong></p>
+      <p><span class="icon">📍</span> Berkeley, CA, USA</p>
+      <p><span class="icon">📅</span> <em>June 2024 – May 2025</em></p>
+      <p><span class="icon">📌</span><strong>Responsibilities:</strong> </p>
+
+      <ul class="experience-list">
+
+        <li>Worked as a Graduate Student Research Assistant at the <strong>National Energy Research Scientific Computing Center</strong> <a href="https://www.nersc.gov/" target="_blank" style="text-decoration: none;"> (NERSC)</a>, focusing on load-balancing in high-performance computing platforms.</li>
+
+        <li>Collaborated closely with the <strong>AMReX</strong> (a block-structured adaptive mesh refinement (AMR) software framework) development team to investigate the current state of load-balancing algorithms.</li>
+
+        <li>Worked voluntarily on refinements of developed novel algorithms and generated results with real-time experimental data.</li>
+
+      </ul>
+
+      <p><span class="icon">📜</span><strong>Key Contributions:</strong> </p>
+
+      <ul class="experience-list">
+
+        <li>Expanded the current state of load-balancing algorithms in AMReX, parallelized a brute-force approach, developed a hybrid SFC-Knapsack and improved SFC bisection strategy using painter’s, achieved faster run-time, and <strong>99.8–99.9%</strong> balanced efficiency at scale.</li>
+
+        <li>Statistically analyzed the efficiency and runtime of these algorithms for sizes up to <strong>512</strong> ranks. Knapsack combined with painter’s achieved highest efficiency ranging <strong>99.8–99.9%</strong>, while SFC with painter’s algorithm demonstrated faster runtime.</li>
+
+        <li>Paper accepted at <a href="https://pearc.acm.org/pearc25/about-pearc/" target="_blank" style="text-decoration: none;">ACM PEARC (Practice & Experience in Advanced Research Computing)</a> conference. Additionally created a pull request to incorporate the developed algorithms into the <a href="https://github.com/AMReX-Codes/amrex" target="_blank" style="text-decoration: none;"> AMReX</a> GitHub repository.</li>
 
       </ul>
 
@@ -73,13 +162,12 @@ author_profile: true
 
       <ul class="experience-list">
 
-        <li>Analyzing large biological datasets to identify Boolean relationships between genes in tissues across different organs.</li>
+      <li><strong>Computational Biology:</strong> Analyzing large-scale biological datasets to identify Boolean relationships between genes and developing computational methods to accelerate the use of AI in pathology and drug discovery.
+      </li>
 
-        <li>Designing computational approaches to accelerate the application of AI and Data Science in pathology and drug discovery.</li>
 
-        <li>Developing multimodal approaches to analyze spatial transcriptomics data, predicting cell trajectory, generating biological hypotheses, and identifying biomarkers.</li>
+      <li><strong>AI Integration and Model Optimization:</strong> Developing multimodal approaches, foundation models, and fine-tuning strategies for vision and language-related tasks to generate biological hypotheses and identify biomarkers.</li>
 
-        <li>Developing fine-tuning strategies and optimization methods for neural networks and transformer-based models, enhancing performance in vision and language-related tasks.</li>
 
       </ul>
 
@@ -129,9 +217,9 @@ author_profile: true
 
       <ul class="experience-list">
 
-        <li><strong>Performance Optimization:</strong> Improved  query efficiency by leveraging the OFS Primary Index (PI) for local aggregation and join capabilities.</li>
+        <li><strong>Query Optimization:</strong> Leveraged Primary Index (PI) for efficient local aggregation and join capabilities to enhance Teradata’s Object File Storage (OFS) system and achieved <strong>20%</strong> query cost reduction. Optimized data scenarios for <strong>1B</strong> rows.</li>
 
-        <li><strong>Automated Framework:</strong> Developed an automated framework that includes Data Generation, Query Generation, and Test Run functionalities to generate queries simulating diverse data scenarios (bad, mixed, and good) by inserting 1 billion rows into the OFS.</li>
+        <li><strong>Automated Framework:</strong> Developed an automated framework for data and query generation, simulated good and bad cases for DBQL performance benchmarking. Generated <strong>512</strong> objects with <strong>700M</strong> rows (good case) and <strong>233</strong> objects with <strong>48M</strong> rows (bad case).</li>
 
         <li><strong>Benchmarking & Analysis:</strong> Evaluated system performance using key metrics such as Actual Cost and NOSFile read count to assess cost-effectiveness of OFS PI table usage.</li>
 
@@ -168,7 +256,7 @@ author_profile: true
 
       <ul class="experience-list">
 
-        <li>Worked as a Research Intern with the <strong>Technology Innovation Office (TIO)</strong> team, directly reporting to the Engineering Fellows and Directors.</li>
+        <li>Worked as a Research Intern with the <strong>Technology Innovation Office (TIO)</strong> team and directly reported to the Engineering Fellows and Directors.</li>
 
         <li>Contributed to the proof-of-concepts and developed predictive models for platform configuration resource usage by analyzing Telemetry data from the Teradata Telemetry Collection Agent (TCA).</li>
 
@@ -237,7 +325,7 @@ author_profile: true
 
         <li><strong>Automated Framework:</strong> Contributed to backend GUI design, integrated Gazebo-ROS functionalities, and successfully deployed the system on AWS S3 and RoboMaker, enhancing robot simulation and testing efficiency.</li>
 
-        <li><strong>Performance Optimization:</strong> Implemented machine learning based analytics in chaosRobo to assess system robustness reducing failure detection time and improving overall testing accuracy.</li>
+        <li><strong>Performance Optimization:</strong> Implemented machine learning-based analytics in chaosRobo to assess system robustness, reducing failure detection time by <strong>30%</strong> and improving overall testing accuracy by <strong>20–25%</strong>. </li>
 
       </ul>
 
@@ -281,7 +369,7 @@ author_profile: true
 
       <ul class="experience-list">
 
-        <li><strong>Bedrock Automation Asset Development:</strong> Automated end-to-end user stories for Airbus PPR scenarios using image-based and text-based recognition. Developed a new testing methodology and integrated it into the 3D Experience software. .</li>
+        <li><strong>Bedrock Automation Asset Development:</strong> Automated end-to-end user stories for Airbus PPR scenarios using image-based and text-based recognition. Developed a new testing methodology and integrated it into the 3D Experience software.</li>
 
         <li><strong>Automated Framework:</strong> Worked on customization and integration using RESTful web services and hybrid app development using Apache Cordova, enhanced cross-platform functionality and user experience.</li>
 

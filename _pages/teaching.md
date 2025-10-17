@@ -12,6 +12,48 @@ author_profile: true
 <div class="teaching-section">
 
 
+  <!-- Current teaching -->
+  <div class="teaching-entry">
+    <div class="teaching-details">
+      <h3>
+        <a href="https://dsc-capstone.org/2025-26/staff/" target="_blank" style="text-decoration: none;">DSC 180AB: Data Science Capstone</a>
+      </h3>
+
+      <p><strong>Teaching Assistant</strong></p>
+      <p>Instructor: <a href="https://datascience.ucsd.edu/people/umesh-bellur/" target="_blank" style="text-decoration: none;">Umesh Bellur</a></p>
+      <p><span class="icon">📅</span> <em>Fall 2025</em></p>
+      <p><span class="icon">📌</span><strong>Responsibilities:</strong> </p>
+
+      <ul class="teaching-list">
+
+        <li>Appointed as a Teaching Assistant for a two-quarter undergraduate capstone project course, managing six groups of approximately ten students each. Assigned to domains such as theoretical foundations, language models, and applied data science.</li>
+
+        <li>Responsible for conducting office hours, grading participation assignments, code checkpoints, final code submission, and addressing coding or methodological questions in projects related to  <strong> LLM training and inference, AI in Healthcare, Deep Neural Networks, Generative-AI, Agentic Applications</strong>.</li>
+
+        <li>Assisting the following groups: <a href="https://dsc-capstone.org/enrollment/" target="_blank" style="text-decoration: none;">Domain Descriptions</a> </li>
+
+          <ul class="teaching-list">
+            <li><strong>A06:</strong> Open LLM Training, Inference, and Infrastructure</li>
+            <li><strong>A11:</strong> Explorations on in-context learning in LLMs</li>
+            <li><strong>B08:</strong> Large Language Models in Healthcare</li>
+            <li><strong>B16:</strong> Agentic Applications and Knowledge Graphs in Life Sciences </li>
+            <li><strong>B18:</strong> Deep learning for understanding microbiome results</li>
+            <li><strong>B24:</strong> Gen AI for Good </li>
+            <li><strong>B25:</strong> Supply-Demand Group Headcount Forecasting</li>
+            
+          </ul>
+
+      </ul>
+
+
+
+     
+
+    </div>
+  </div>
+
+
+
 
   <!-- Current teaching -->
   <div class="teaching-entry">

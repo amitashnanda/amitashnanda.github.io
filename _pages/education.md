@@ -23,18 +23,18 @@ author_profile: true
       <p>
         <strong>
           <a href="https://ece.ucsd.edu/faculty-research/ece-research-areas/machine-learning-data-science-impacted" target="_blank" style="text-decoration: none;">
-            Ph.D. in Electrical and Computer Engineering (Machine Learning and Data Science)
+            Doctor of Philosophy (Ph.D.) in Electrical and Computer Engineering (Machine Learning and Data Science)
           </a>
         </strong>
       </p>
       <p><span class="icon">📍</span> San Diego, CA</p>
-      <p><span class="icon">📅</span> <em>September 2023 – Present</em></p>
-      <p><span class="icon">🎯</span> GPA: 3.7</p>
+      <p><span class="icon">📅</span> <em>September 2023 – June 2027</em></p>
+      <p><span class="icon">🎯</span> GPA: 3.5</p>
       <p>
           <span class="icon">🔬</span> <strong>Research Areas:</strong> 
       </p>
       <p>
-          Distributed Machine Learning, Generative-AI, Vision-AI, DNN/LLM Optimization, Software & Systems, Bioinformatics
+          Distributed Machine Learning, Generative-AI, Vision-AI, DNN/LLM Optimization, AI/ML Systems, Applied Data Sciene, Bioinformatics
       </p>
     </div>
 </div>
@@ -49,13 +49,13 @@ author_profile: true
       <p>
         <strong>
           <a href="https://ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted" target="_blank" style="text-decoration: none;">
-            Master’s in Electrical and Computer Engineering (Intelligent Systems, Robotics, and Control)
+            Master of Science (M.S.) in Electrical and Computer Engineering (Intelligent Systems, Robotics, and Control)
           </a>
         </strong>
       </p>
       <p><span class="icon">📍</span> San Diego, CA</p>
       <p><span class="icon">📅</span> <em>September 2021 – June 2023</em></p>
-      <p><span class="icon">🎯</span> GPA: 3.7</p>
+      <p><span class="icon">🎯</span> GPA: 3.5</p>
     <p><span class="icon">📜 </span> <strong>Thesis:</strong> 
     </p>
     <p>

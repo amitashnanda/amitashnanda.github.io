@@ -16,10 +16,13 @@ blogger-color: "#F37100"
 
 
 
-I am a second-year **Ph.D. Student** in the Department of [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) specializing in [Machine Learning and Data Science](https://www.ece.ucsd.edu/faculty-research/ece-research-areas/machine-learning-data-science-impacted) at the [University of California San Diego](https://ucsd.edu/). I graduated from UCSD with a Master's in Electrical and Computer Engineering, specializing in [Intelligent Systems, Robotics, and Control](https://www.ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted), in Spring 2023. I am a part of the [Boolean Lab](https://sites.google.com/view/debashis-sahoo/home?authuser=0), and my advisors are [Dr. Debashis Sahoo](https://scholar.google.com/citations?user=wSehpJsAAAAJ&hl=en) (advisor) and [Dr. Bill Lin](https://scholar.google.com/citations?user=TuKm5oEAAAAJ&hl=en) (co-advisor). I am also a **Graduate Student Researcher** at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), [National Energy Research Scientific Computing Center](https://www.nersc.gov/), working under [Kevin Gott](https://www.nersc.gov/about/nersc-staff/user-engagement/kevin-gott/) and [Hannah Ross](https://scholar.google.com/citations?user=mcU_8msAAAAJ&hl=en). 
+I am a third-year **Ph.D. Student** in the Department of [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) specializing in [Machine Learning and Data Science](https://www.ece.ucsd.edu/faculty-research/ece-research-areas/machine-learning-data-science-impacted) at the [University of California San Diego](https://ucsd.edu/). I graduated from UCSD with a Master's in Electrical and Computer Engineering, specializing in [Intelligent Systems, Robotics, and Control](https://www.ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted), in Spring 2023. I am a part of the [Boolean Lab](https://sites.google.com/view/debashis-sahoo/home?authuser=0), and my advisors are [Dr. Debashis Sahoo](https://scholar.google.com/citations?user=wSehpJsAAAAJ&hl=en) (advisor) and [Dr. Bill Lin](https://scholar.google.com/citations?user=TuKm5oEAAAAJ&hl=en) (co-advisor). I worked as a **Graduate Student Researcher** at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), [National Energy Research Scientific Computing Center](https://www.nersc.gov/), in the load balancing team (2024) and the data and analytics team (2025). I was supervised by [Steven Farrell](https://www.nersc.gov/profile/steven-farrell), [Kevin Gott](https://www.nersc.gov/about/nersc-staff/user-engagement/kevin-gott/), and [Hannah Ross](https://scholar.google.com/citations?user=mcU_8msAAAAJ&hl=en). 
 
 
-I have over **two years** of professional experience as a **Software Engineer** specializing in research and development. During my time at companies like [Accenture Research](https://www.accenture.com/us-en/services/accenture-labs/industry-x-0) and [Teradata US](https://www.teradata.com/?utm_source=google&utm_medium=paidsearch&utm_campaign=ams-brand-ao-finn-partners&utm_term=teradata&utm_content=website&utm_id=7016R000001rGZsQAM&gad_source=1&gclid=Cj0KCQiAr7C6BhDRARIsAOUKifh24ja65fg_tPXP-_dexb5TDAS40NR3Y9Xy8DmKQMjRxU2rYDQuD5AaAvj0EALw_wcB) (**Technology Innovation Office and Optimizer Development Team**), I worked on proof-of-concepts and contributed to product development. I designed, built, and configured software applications to align with business processes.  My responsibilities included code development and creating software plugins and features. Additionally, I analyzed millions of data points to build machine learning models, pipelines, and operations.
+I have over **two years** of full-time professional experience as a **Software Engineer** focusing on research and development. Additionally, I have completed **four quarters** of full-time professional experience as a **Graduate Intern** in **Machine Learning** and **Software Development Engineering** in the United States. 
+
+During my tenure at [Accenture Research](https://www.accenture.com/us-en/services/accenture-labs/industry-x-0) and [Teradata US](https://www.teradata.com/?utm_source=google&utm_medium=paidsearch&utm_campaign=ams-brand-ao-finn-partners&utm_term=teradata&utm_content=website&utm_id=7016R000001rGZsQAM&gad_source=1&gclid=Cj0KCQiAr7C6BhDRARIsAOUKifh24ja65fg_tPXP-_dexb5TDAS40NR3Y9Xy8DmKQMjRxU2rYDQuD5AaAvj0EALw_wcB) (**Technology Innovation Office and Optimizer Development Team**), I worked on proof-of-concepts and contributed to product development. I designed, built, and configured software applications to align with business processes. My responsibilities included code development and creating software plugins and features. Furthermore, I have worked on large-scale machine learning projects, building end-to-end pipelines, developing algorithms, optimizing models, and deploying. 
+
 
 
 
@@ -53,6 +56,8 @@ I'm a member of the **Boolean Lab** and a student researcher at the **National E
 
 
 **Personal Life:**
+
+🏠 **Based in:** San Diego, California, United States
 
 🏠 **Hometown:** Rourkela, Odisha, India
 
@@ -131,4 +136,5 @@ Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion Univers
 * May 1996, B.S., [Computer Science](http://www.ulm.edu/cba/computerscience/index.html) ([Honors Program](http://www.ulm.edu/honors)), Northeast Louisiana University (now [University of Louisiana at Monroe](http://www.ulm.edu)) -->
   
 <!-- <iframe width="300" src="https://www.youtube.com/embed/FVIg42xHlvQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-<img src="images/dp.gif" alt="Description of Image" style="width: 800px; height: auto;">
+<img src="images/main.gif" alt="Description of Image" style="width: 1200px; height: auto;">
+<!-- <video src="images/test.mp4" controls style="width:100%; max-width:1200px"></video> -->

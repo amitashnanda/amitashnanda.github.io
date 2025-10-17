@@ -5,6 +5,10 @@ title: "Contact Info"
 
 ## Office Location
 
+CSE Building Room No: 4252  
+3235 Voigit Dr  
+La Jolla, CA    
+
 SOM Building 3, 
 Osler Lane  
 UC San Diego School of Medicine  

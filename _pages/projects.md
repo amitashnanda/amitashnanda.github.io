@@ -10,6 +10,25 @@ author_profile: true
 
   <!-- Current Experience -->
   <div class="experience-entry">
+    <img src="{{ '/images/p0.gif' | relative_url }}" alt="LBNL Logo" class="company-logo">
+    <div class="experience-details">
+      <h3>
+        <a target="_blank" style="text-decoration: none;">ESM-3 Guided-Generation Based Protein Engineering </a>
+      </h3>
+      <p><strong><a href="https://github.com/amitashnanda/ESM3-Guided-Generation-Based-Protein-Engineering">GitHub</a></strong></p>
+      <p><span class="icon">📍</span> NERSC, LBNL </p>
+      <!-- <p><span class="icon">📅</span> <em>June 2024 – Present</em></p> -->
+
+  <ul class="experience-list">
+        <li>Developed a guided-generation framework integrating <strong>ESM-3</strong> generative model with <strong>FoldX</strong> scoring function (ddG scores).</li>
+        <li>Enhanced framework capabilities to refine sequences for thermostability and binding affinity, reducing time for each generation step by <strong>75–80%</strong> and achieving 8x faster performance leveraging <strong>HPC-AI</strong> workflow. Published a <strong>PyPI</strong> package.</li>
+        <li>Expanding the developed optimization algorithm for derivative-free guided-generation for other properties to enhance protein engineering.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Current Experience -->
+  <div class="experience-entry">
     <img src="{{ '/images/p1.gif' | relative_url }}" alt="LBNL Logo" class="company-logo">
     <div class="experience-details">
       <h3>
@@ -227,6 +246,8 @@ author_profile: true
       </ul>
     </div>
   </div>
+
+
 
 
 
